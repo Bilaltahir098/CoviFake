@@ -1,6 +1,6 @@
-## COVID19-Shams
+## COVID19-Sham
 
-This repository contains dataset titled *COVID19-Shams* used in the paper titled '**CoviFake: A Framework to Detect and Analyze Fake COVID19 Tweets**'.
+This repository contains dataset titled *COVID19-Sham* used in the paper titled '**CoviFake: A Framework to Detect and Analyze Fake COVID19 Tweets**'.
 The data is used to train the machine learning models to classify real and fake tweets related to COVID-19.
 Repository contains two CSV files
 
